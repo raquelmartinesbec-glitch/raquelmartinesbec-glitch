@@ -109,6 +109,33 @@
       💡 Seguridad y privacidad desde el diseño → JWT, hashing seguro y validaciones estrictas
       🎨 Modularidad y claridad → Backend bien estructurado, testing como contrato del sistema
       📊 Medición y control inteligente → Testing automatizado y control de datos en todo momento
+
+## 🌟 Evaluación HTKS — Funciones Ejecutivas
+💡 Primera experiencia aplicando análisis de datos y ML a educación infantil (0-6 años). Plataforma web para gestionar y analizar evaluaciones HTKS.
+
+### 🚀 Highlights
+      📱 Frontend: HTML5 + CSS3 + Chart.js · Dashboards interactivos
+      ⚡ Backend: Flask + SQLAlchemy + Flask-Login + Keras/TensorFlow
+      🧠 ML: Red neuronal con métricas MAE, RMSE, R², MSE · Early stopping · Guardado de modelos .keras
+
+### 📊 Funcionalidades clave:
+
+      CRUD completo de evaluaciones
+      
+      Estadísticas y visualizaciones por edad, género y nivel socioeconómico
+      
+      Exportación de datos a CSV
+      
+      Validación robusta, logging y manejo de errores
+
+### 🔐 Seguridad: Autenticación de usuarios con Flask-Login y roles
+      💻 Código modular y testable (pytest) · Migraciones de BD listas
+
+### 🌟 Por qué destaca
+      ⚡ Primer contacto con ML aplicado a educación
+      💡 Aplicación de rigor metodológico: limpieza, validación y métricas interpretables
+      🎨 Visualizaciones claras e interactivas
+      📊 Resultados reproducibles y transferibles
         
 
 ## 📊 Data Science & Tratamiento de Datos
