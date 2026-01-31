@@ -17,11 +17,11 @@
 
                 
 ## 💻 Apps & Proyectos de IA
-### 🌟 Luz - App de Bienestar Interactiva
+## 🌟 Luz - App de Bienestar Interactiva
 
 💡 Bienestar digital con IA adaptativa que aprende de ti y personaliza recomendaciones según tu estado emocional
 
-## 🚀 Highlights
+### 🚀 Highlights
 
         📱 Frontend: Flutter (iOS/Android) · Estilo Boho Chic Zen
         
@@ -43,7 +43,7 @@
         
         🚀 Fácil de levantar: Docker ✅ o local ✅, hot reload, tests separados
 
-## 🌟 Por qué destaca
+### 🌟 Por qué destaca
 
         ⚡ Arquitectura simple y escalable → ideal para prototipos de apps con IA
         
@@ -56,6 +56,59 @@
         🔥 Valor agregado: Modular, reproducible y listo para escalar. Ideal para demostraciones a recruiters y proyectos reales.
 
 
+## 🌟 NeoCare Health — Plataforma de Gestión Médica y Kanban
+
+💡 Plataforma para la gestión de pacientes, tableros Kanban y datos médicos, con backend seguro, escalable y testeado, diseñada para integrarse con frontends modernos y proteger la privacidad del usuario.
+
+### 🚀 Highlights
+      📱 Frontend: React + Vite · Tailwind CSS
+      ⚡ Backend: FastAPI + SQLAlchemy + PostgreSQL + JWT
+      
+      🔐 Seguridad y Autenticación:
+      
+            Registro y login con JWT
+            
+            Endpoints protegidos con permisos por usuario
+            
+      🗂 Funcionalidades principales:
+      
+            👤 Usuarios: Registro, login y control de acceso
+            
+            📋 Tableros Kanban: Crear, listar y editar tableros
+            
+            🗃️ Tarjetas Kanban: CRUD, drag & drop, orden y validación de datos
+      
+      🧪 Testing automatizado:
+      
+            Unitario, integración y E2E con Pytest + Playwright
+      
+      🗄 Persistencia Inteligente:
+      
+            Base de datos PostgreSQL
+            
+            Backend como autoridad de orden y seguridad
+      
+      💻 Código y Métricas:
+      
+            Backend completo, modular y escalable
+            
+            Tests automatizados que garantizan estabilidad y fiabilidad
+            
+            Documentación Swagger automática en /docs
+      
+      🚀 Fácil de levantar:
+      
+            Entorno virtual ✅
+            
+            Backend listo para correr con uvicorn app.main:app --reload
+            
+            Frontend disponible con npm run dev
+
+### 🌟 Por qué destaca
+      ⚡ Arquitectura robusta y escalable → Ideal para sistemas críticos con datos sensibles
+      💡 Seguridad y privacidad desde el diseño → JWT, hashing seguro y validaciones estrictas
+      🎨 Modularidad y claridad → Backend bien estructurado, testing como contrato del sistema
+      📊 Medición y control inteligente → Testing automatizado y control de datos en todo momento
         
 
 ## 📊 Data Science & Tratamiento de Datos
