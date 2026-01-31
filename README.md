@@ -1,7 +1,6 @@
 ## 👋 Hola, soy Raquel Martín Esbec
 
-# Desarrolladora Python orientada a backend, análisis de datos y Machine Learning responsable, con experiencia en API REST,
-# persistencia relacional y modelos predictivos básicos.
+# Desarrolladora Python orientada a backend, análisis de datos y Machine Learning responsable, con experiencia en API REST, persistencia relacional y modelos predictivos básicos.
 
       💡 Estoy aplicando mis conocimientos de investigación para aprender a generar y procesar datos de manera ética y rigurosa,
       construyendo sistemas que producen resultados confiables y transferibles.
