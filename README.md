@@ -58,8 +58,8 @@
 
         
 
-### 📊 Data Science & Tratamiento de Datos
-## 1️⃣ Emotion Analysis Project
+## 📊 Data Science & Tratamiento de Datos
+### 1️⃣ Emotion Analysis Project
 
                   💡 Análisis de emociones con datasets sintéticos progresivamente más realistas
                   
@@ -75,7 +75,7 @@
                   
                   ⚡ Simula la complejidad del mundo real, preparando modelos de ML para desafíos auténticos en NLP.
 
-## 2️⃣ Ecoenergy Solutions Dataset
+### 2️⃣ Ecoenergy Solutions Dataset
 
                   💡 Análisis y limpieza de datos energéticos sintéticos
                   
@@ -87,7 +87,7 @@
                   
                   Análisis exploratorio con visualizaciones y dashboards interactivos
 
-## 3️⃣ GreenMart Dataset
+### 3️⃣ GreenMart Dataset
 
                   💡 Limpieza y preparación de datos sintéticos de retail ecológico
                   
