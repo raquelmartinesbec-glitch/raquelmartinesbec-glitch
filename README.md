@@ -1,12 +1,20 @@
 ## 👋 Hola, soy Raquel Martín Esbec
 
-# Desarrolladora Python orientada a backend, análisis de datos y Machine Learning responsable, con experiencia en API REST, persistencia relacional y modelos predictivos básicos.
+# Desarrolladora Python orientada a backend, análisis de datos y Machine Learning responsable, con experiencia en API REST,
+# persistencia relacional y modelos predictivos básicos.
 
-      💡 Estoy aplicando mis conocimientos de investigación para aprender a generar y procesar datos de manera ética y rigurosa, construyendo sistemas que producen resultados confiables y transferibles. En proyectos como Luz – App de     Bienestar Interactiva, los datos se recogen y tratan cuidadosamente para proteger la privacidad del usuario y mantener la consistencia emocional en los modelos. Cada recomendación de IA se basa en datasets validados, lo que permite que los algoritmos sean útiles y escalables en contextos similares.
+      💡 Estoy aplicando mis conocimientos de investigación para aprender a generar y procesar datos de manera ética y rigurosa,
+      construyendo sistemas que producen resultados confiables y transferibles.
+      En proyectos como Luz – App de     Bienestar Interactiva, los datos se recogen y tratan cuidadosamente para proteger la
+      privacidad del usuario y mantener la consistencia emocional en los modelos. Cada recomendación de IA se basa en datasets
+      validados, lo que permite que los algoritmos sean útiles y escalables en contextos similares.
 
-                🔹 Aplico rigor metodológico: limpieza, normalización, anotación y control de inconsistencias para garantizar que los modelos de Machine Learning sean interpretables, precisos y reproducibles.
+                🔹 Aplico rigor metodológico: limpieza, normalización, anotación y control de inconsistencias para garantizar
+                que los modelos de Machine Learning sean interpretables, precisos y reproducibles.
                 
-                🔹 La ética en la IA guía todas mis decisiones: desde la recolección de datos hasta el diseño de algoritmos adaptativos que aprenden de forma transparente y segura, maximizando el valor para el usuario sin comprometer su                      privacidad.
+                🔹 La ética en la IA guía todas mis decisiones: desde la recolección de datos hasta el diseño de algoritmos
+                adaptativos que aprenden de forma transparente y segura, maximizando el valor para el usuario sin comprometer su
+                privacidad.
 
                 
 ## 💻 Apps & Proyectos de IA
